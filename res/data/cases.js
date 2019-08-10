@@ -12,7 +12,7 @@ var cases = [{
         p3 : '客户：苹果'
     },
     media : {
-        size : 2
+        size : 1
     }
 },{
     core : {
@@ -25,7 +25,7 @@ var cases = [{
         p3 : '客户：微软'
     },
     media : {
-        size : 2
+        size : 1
     }
 },{
     core : {
@@ -38,7 +38,7 @@ var cases = [{
         p3 : '客户：第3屏'
     },
     media : {
-        size : 2
+        size : 3
     }
 },{
     core : {
@@ -51,7 +51,7 @@ var cases = [{
         p3 : '客户：第4屏'
     },
     media : {
-        size : 2
+        size : 3
     }
 },{
     core : {
@@ -64,7 +64,7 @@ var cases = [{
         p3 : '客户：第5屏'
     },
     media : {
-        size : 2
+        size : 3
     }
 },{
     core : {
@@ -77,7 +77,7 @@ var cases = [{
         p3 : '客户：第6屏'
     },
     media : {
-        size : 2
+        size : 5
     }
 }];
 

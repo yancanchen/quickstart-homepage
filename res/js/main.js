@@ -27,7 +27,7 @@ define(['jquery', 'ejs', 'common/base','app/index'], function($, ejs, base,index
             $("body").html(
                 "<div class='warn'>" +
                     "<p>请您在电脑上访问网站</p>" +
-                    "<p class='copy'>Copyright &copy; 2016. 橙子科技</p>" +
+                    "<p class='copy'>Copyright &copy; 2016. </p>" +
                 "</div>");
         },
         ua : function () {//UA判断

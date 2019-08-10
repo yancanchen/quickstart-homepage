@@ -61,7 +61,7 @@ main,
 
     .index{
         .banner{
-            background: $orange url("img/bg-banner.jpg") center no-repeat;
+            background: url("img/shouye.png") center no-repeat;
             height: 650px;
         }
 
@@ -128,7 +128,6 @@ main,
                 margin-bottom: 60px;
 
                 .item{
-                    background: $blackLight;
                     height: 230px;
                     margin: $item-margin;
                     cursor: pointer;

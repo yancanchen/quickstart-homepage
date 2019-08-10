@@ -613,7 +613,7 @@ main,
   padding-top: 100px; }
   main .index .banner,
   .main .index .banner {
-    background: #FF7F00 url("img/bg-banner.jpg") center no-repeat;
+    background: url("img/shouye.png") center no-repeat;
     height: 650px; }
   main .index .service,
   main .index .case,
@@ -686,7 +686,6 @@ main,
       margin-bottom: 60px; }
       main .index .case .section .item,
       .main .index .case .section .item {
-        background: #37322e;
         height: 230px;
         margin: 7.5px;
         cursor: pointer;
